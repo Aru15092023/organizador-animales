@@ -1,0 +1,5 @@
+# Tkinter generalmente viene incluido con las instalaciones de Python.
+# Sin embargo, para asegurar que la imagen de Docker tenga las bibliotecas gráficas necesarias,
+# no necesitamos instalar Tkinter directamente con pip, sino que dependemos de la imagen base.
+# Si tuvieras otras dependencias, irían aquí, por ejemplo:
+# requests==2.31.0
